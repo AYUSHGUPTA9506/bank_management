@@ -1,0 +1,130 @@
+[
+    {
+        "name": "ayush",
+        "age": 23,
+        "email": "2328086@gmail.com",
+        "pin": 1342,
+        "account_number": 1234,
+        "balance": 8000
+    },
+    {
+        "name": "ayush",
+        "age": 18,
+        "email": "2328086@gmail.com",
+        "pin": 1234,
+        "account_number": "zhK05!1",
+        "balance": 0
+    },
+    {
+        "name": "dipesh",
+        "age": 23,
+        "email": "2328091@gmail.com",
+        "pin": 1234,
+        "account_number": "2K@ZL45",
+        "balance": 0
+    },
+    {
+        "name": "assdfg",
+        "age": 123,
+        "email": "asert2GMAIL.COM",
+        "pin": 1234,
+        "account_number": "p2T3$1l",
+        "balance": 0
+    },
+    {
+        "name": "AVINASH",
+        "age": 20,
+        "email": "2328248@gmail.com",
+        "pin": 8248,
+        "account_number": "b@6Z60d",
+        "balance": 0
+    },
+    {
+        "name": "AVINASH",
+        "age": 23,
+        "email": "2328248@gmail.com",
+        "pin": 8248,
+        "account_number": "4uDh8#7",
+        "balance": 0
+    },
+    {
+        "name": "AVINASH",
+        "age": 23,
+        "email": "232248@gmail.com",
+        "pin": 8248,
+        "accountNo.": "9%xIG06",
+        "balance": 0
+    },
+    {
+        "name": "AVINASH RANJAN",
+        "age": 21,
+        "email": "2328086@gmail.com",
+        "pin": 9506,
+        "accountNo.": "h92D^Q5",
+        "balance": 0
+    },
+    {
+        "name": "AYUSH GUPTA",
+        "age": 21,
+        "email": "2328086@kiit.ac..in",
+        "pin": 1234,
+        "accountNo.": "l9aZ51!",
+        "balance": 0
+    },
+    {
+        "name": "ayush",
+        "age": 23,
+        "email": "2328086@kiit.ac.in",
+        "pin": 2308,
+        "accountNo.": "A9C68d@",
+        "balance": 0
+    },
+    {
+        "name": "Avinash Ranjan",
+        "age": 20,
+        "email": "2328248@gmail.com",
+        "pin": 8248,
+        "account_number": "#4PlN58",
+        "balance": 0
+    },
+    {
+        "name": "Avinash Ranjan",
+        "age": 20,
+        "email": "2328248@gmail.com",
+        "pin": 8248,
+        "account_number": "6Sc58q^",
+        "balance": 0
+    },
+    {
+        "name": "Avinash Ranjan",
+        "age": 20,
+        "email": "2328248@gmail.com",
+        "pin": 8248,
+        "account_number": "5Sn74f#",
+        "balance": 0
+    },
+    {
+        "name": "SOHAM",
+        "age": 20,
+        "email": "2328048@gmail.com",
+        "pin": 8048,
+        "accountNo.": "j2v^9n0",
+        "balance": 0
+    },
+    {
+        "name": "KUNAL",
+        "age": 23,
+        "email": "2328238@kiit.ac.in",
+        "pin": 8238,
+        "accountNo.": "N@42Pa4",
+        "balance": 0
+    },
+    {
+        "name": "nandana",
+        "age": 40,
+        "email": "anandiyanandana1981@gmail.com",
+        "pin": 1981,
+        "accountNo.": "6&kz40H",
+        "balance": 0
+    }
+]

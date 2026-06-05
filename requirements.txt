@@ -1,0 +1,6 @@
+1-bank account
+2-deposit money
+3-withdraw money
+4-view details
+5-update details
+6-delete account
